@@ -17,7 +17,27 @@
             <field name="OBJECT">BLACK</field>
             <next>
               <block type="oled_drawtext" id="211">
-                <field name="TEXT">boo</field>
+                <field name="TEXT">&lt;(^.^)&lt;</field>
+                <next>
+                  <block type="oled_color" id="254">
+                    <field name="OBJECT">GREEN</field>
+                    <next>
+                      <block type="oled_drawtext" id="263">
+                        <field name="TEXT">&lt;(^.^)&gt;</field>
+                        <next>
+                          <block type="oled_color" id="264">
+                            <field name="OBJECT">GREEN</field>
+                            <next>
+                              <block type="oled_drawtext" id="265">
+                                <field name="TEXT">&gt;(^.^)&gt;</field>
+                              </block>
+                            </next>
+                          </block>
+                        </next>
+                      </block>
+                    </next>
+                  </block>
+                </next>
               </block>
             </next>
           </block>
