@@ -14,26 +14,7 @@
         </value>
         <next>
           <block type="oled_drawtext" id="87">
-            <field name="TEXT">4+5=</field>
-            <next>
-              <block type="oled_drawnumber" id="110" inline="true">
-                <value name="NUMBER">
-                  <block type="math_arithmetic" id="166" inline="true">
-                    <field name="OP">ADD</field>
-                    <value name="A">
-                      <block type="math_number" id="173">
-                        <field name="NUM">8</field>
-                      </block>
-                    </value>
-                    <value name="B">
-                      <block type="math_number" id="180">
-                        <field name="NUM">5</field>
-                      </block>
-                    </value>
-                  </block>
-                </value>
-              </block>
-            </next>
+            <field name="TEXT">julia is annoying</field>
           </block>
         </next>
       </block>
