@@ -12,6 +12,11 @@
             <field name="NUM">10</field>
           </block>
         </value>
+        <next>
+          <block type="oled_drawtext" id="211">
+            <field name="TEXT">boo</field>
+          </block>
+        </next>
       </block>
     </next>
   </block>
