@@ -22,7 +22,7 @@
                     <field name="OP">ADD</field>
                     <value name="A">
                       <block type="math_number" id="173">
-                        <field name="NUM">4</field>
+                        <field name="NUM">8</field>
                       </block>
                     </value>
                     <value name="B">
