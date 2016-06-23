@@ -1,0 +1,10 @@
+{
+    "name": "ctk2",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "ctk2.xml",
+    "author": "wojciej001",
+    "minimum_firmware_version": 42
+}
