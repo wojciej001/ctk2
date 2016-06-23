@@ -26,7 +26,7 @@
                         <field name="TEXT">&lt;(^.^)&gt;</field>
                         <next>
                           <block type="oled_color" id="264">
-                            <field name="OBJECT">GREEN</field>
+                            <field name="OBJECT">BLACK</field>
                             <next>
                               <block type="oled_drawtext" id="265">
                                 <field name="TEXT">&gt;(^.^)&gt;</field>
